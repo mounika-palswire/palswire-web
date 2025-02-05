@@ -44,16 +44,8 @@ export const Hero = () => {
                         display: 'inline',
                      }}
                   >
-                     Connect with Anyone{' '}
+                     Connect with {' '}
                   </Text>
-                  {/* <Text
-                     h1
-                     css={{
-                        display: 'inline',
-                     }}
-                  >
-                     Anywhere{' '}
-                  </Text> */}
                   <Text
                      h1
                      css={{
@@ -61,7 +53,15 @@ export const Hero = () => {
                      }}
                      color="#e0e349"
                   >
-                     Anywhere
+                     like-minded people {' '}
+                  </Text>
+                  <Text
+                     h1
+                     css={{
+                        display: 'inline',
+                     }}
+                  >
+                     everywhere
                   </Text>
                </Box>
 
